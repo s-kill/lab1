@@ -1,0 +1,7 @@
+# Omitir carpeta videos
+/videos/
+
+# Omitir archivos con la extension .txt
+/texts/*.txt
+#exceptuando el archivo 171.txt
+!texts/171.txt
